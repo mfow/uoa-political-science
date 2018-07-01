@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="41f51d1d-fd10-4852-a828-da43b7d8a4e9" name="Michael@MICHAEL-DESKTOP 2012-08-13 07:32:35" runUser="Michael-Desktop\Michael" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="42faeab7-07b5-4534-8247-88e49e1ac1cf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Michael_MICHAEL-DESKTOP 2012-08-13 07_32_35">
+      <DeploymentItem filename="c:\users\michael\documents\visual studio 2010\Projects\CS380\CS380\bin\Debug\CS380.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-13T07:32:35.1601574+12:00" queuing="2012-08-13T07:32:35.2561629+12:00" start="2012-08-13T07:32:35.2761641+12:00" finish="2012-08-13T07:32:35.5701809+12:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestFactorial" storage="c:\users\michael\documents\visual studio 2010\projects\cs380\tests\bin\debug\tests.dll" id="e3b8e2da-7b53-f892-2268-5043c701c03b">
+      <Execution id="db8ca429-49d8-4cbc-83fd-5e6f8c3cf5b6" />
+      <TestMethod codeBase="C:/Users/Michael/Documents/Visual Studio 2010/Projects/CS380/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Sets, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFactorial" />
+    </UnitTest>
+    <UnitTest name="TestMultichoose" storage="c:\users\michael\documents\visual studio 2010\projects\cs380\tests\bin\debug\tests.dll" id="7c1c80ac-08b8-9d14-7fdc-c780764bd43c">
+      <Execution id="d69f0599-f704-4787-922c-a32739adc06b" />
+      <TestMethod codeBase="C:/Users/Michael/Documents/Visual Studio 2010/Projects/CS380/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Sets, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMultichoose" />
+    </UnitTest>
+    <UnitTest name="TestNextMultiset" storage="c:\users\michael\documents\visual studio 2010\projects\cs380\tests\bin\debug\tests.dll" id="74aab978-073e-a67c-ac35-b323c4cd1db3">
+      <Execution id="17f96673-d7b0-4015-a1a9-028b117ea2a6" />
+      <TestMethod codeBase="C:/Users/Michael/Documents/Visual Studio 2010/Projects/CS380/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Sets, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNextMultiset" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="74aab978-073e-a67c-ac35-b323c4cd1db3" executionId="17f96673-d7b0-4015-a1a9-028b117ea2a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c1c80ac-08b8-9d14-7fdc-c780764bd43c" executionId="d69f0599-f704-4787-922c-a32739adc06b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3b8e2da-7b53-f892-2268-5043c701c03b" executionId="db8ca429-49d8-4cbc-83fd-5e6f8c3cf5b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="17f96673-d7b0-4015-a1a9-028b117ea2a6" testId="74aab978-073e-a67c-ac35-b323c4cd1db3" testName="TestNextMultiset" computerName="MICHAEL-DESKTOP" duration="00:00:00.0348763" startTime="2012-08-13T07:32:35.2931650+12:00" endTime="2012-08-13T07:32:35.5161778+12:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17f96673-d7b0-4015-a1a9-028b117ea2a6">
+    </UnitTestResult>
+    <UnitTestResult executionId="d69f0599-f704-4787-922c-a32739adc06b" testId="7c1c80ac-08b8-9d14-7fdc-c780764bd43c" testName="TestMultichoose" computerName="MICHAEL-DESKTOP" duration="00:00:00.0177371" startTime="2012-08-13T07:32:35.5201780+12:00" endTime="2012-08-13T07:32:35.5421793+12:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d69f0599-f704-4787-922c-a32739adc06b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;70&gt;. Actual:&lt;56&gt;. </Message>
+          <StackTrace>   at Tests.Sets.TestMultichoose() in C:\Users\Michael\Documents\Visual Studio 2010\Projects\CS380\Tests\Sets.cs:line 78
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="db8ca429-49d8-4cbc-83fd-5e6f8c3cf5b6" testId="e3b8e2da-7b53-f892-2268-5043c701c03b" testName="TestFactorial" computerName="MICHAEL-DESKTOP" duration="00:00:00.0004389" startTime="2012-08-13T07:32:35.5471796+12:00" endTime="2012-08-13T07:32:35.5511798+12:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db8ca429-49d8-4cbc-83fd-5e6f8c3cf5b6">
+    </UnitTestResult>
+  </Results>
+</TestRun>

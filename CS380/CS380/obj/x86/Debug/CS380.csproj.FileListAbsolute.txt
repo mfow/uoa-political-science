@@ -1,0 +1,10 @@
+c:\users\michael\documents\visual studio 2010\Projects\CS380\CS380\bin\Debug\CS380.exe
+c:\users\michael\documents\visual studio 2010\Projects\CS380\CS380\bin\Debug\CS380.pdb
+c:\users\michael\documents\visual studio 2010\Projects\CS380\CS380\obj\x86\Debug\CS380.exe
+c:\users\michael\documents\visual studio 2010\Projects\CS380\CS380\obj\x86\Debug\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\bin\Debug\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\bin\Debug\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\obj\x86\Debug\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\obj\x86\Debug\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\bin\Debug\CS380.exe.config
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\obj\x86\Debug\CS380.csprojResolveAssemblyReference.cache

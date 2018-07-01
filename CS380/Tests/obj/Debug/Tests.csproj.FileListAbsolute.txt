@@ -1,0 +1,14 @@
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\bin\Debug\Tests.dll
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\bin\Debug\Tests.pdb
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\bin\Debug\CS380.exe
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\bin\Debug\CS380.pdb
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\obj\Debug\Tests.dll
+c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\obj\Debug\Tests.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Debug\Tests.dll
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Debug\Tests.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Debug\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Debug\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\obj\Debug\Tests.dll
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\obj\Debug\Tests.pdb

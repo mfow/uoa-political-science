@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Release\Tests.dll
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Release\Tests.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Release\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\bin\Release\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\obj\Release\Tests.dll
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Tests\obj\Release\Tests.pdb

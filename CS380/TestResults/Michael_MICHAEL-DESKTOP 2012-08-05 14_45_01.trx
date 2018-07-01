@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c803408a-8722-46f8-8401-4f59aaa6ee2b" name="Michael@MICHAEL-DESKTOP 2012-08-05 14:45:01" runUser="Michael-Desktop\Michael" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="42faeab7-07b5-4534-8247-88e49e1ac1cf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Michael_MICHAEL-DESKTOP 2012-08-05 14_45_01">
+      <DeploymentItem filename="c:\users\michael\documents\visual studio 2010\Projects\CS380\CS380\bin\Debug\CS380.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-05T14:45:01.0929122+12:00" queuing="2012-08-05T14:45:01.3019242+12:00" start="2012-08-05T14:45:01.3299258+12:00" finish="2012-08-05T14:45:01.8759570+12:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestNextMultiset" storage="c:\users\michael\documents\visual studio 2010\projects\cs380\tests\bin\debug\tests.dll" id="74aab978-073e-a67c-ac35-b323c4cd1db3">
+      <Execution id="88f7596e-39b0-4d4a-af22-0110c272c5ff" />
+      <TestMethod codeBase="c:/users/michael/documents/visual studio 2010/Projects/CS380/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.Sets, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNextMultiset" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="74aab978-073e-a67c-ac35-b323c4cd1db3" executionId="88f7596e-39b0-4d4a-af22-0110c272c5ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="88f7596e-39b0-4d4a-af22-0110c272c5ff" testId="74aab978-073e-a67c-ac35-b323c4cd1db3" testName="TestNextMultiset" computerName="MICHAEL-DESKTOP" duration="00:00:00.0587430" startTime="2012-08-05T14:45:01.3619276+12:00" endTime="2012-08-05T14:45:01.8319545+12:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="88f7596e-39b0-4d4a-af22-0110c272c5ff">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;2:1 |1&gt;. Actual:&lt;3:1 |1&gt;. </Message>
+          <StackTrace>   at Tests.Sets.TestNextMultiset() in c:\users\michael\documents\visual studio 2010\Projects\CS380\Tests\Sets.cs:line 100
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

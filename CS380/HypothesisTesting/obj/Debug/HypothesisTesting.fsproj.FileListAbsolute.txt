@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\HypothesisTesting.exe.config
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\HypothesisTesting.XML
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\HypothesisTesting.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\HypothesisTesting.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\FSharp.Core.dll
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\bin\Debug\FSharp.Core.xml
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\obj\Debug\HypothesisTesting.fsprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\obj\Debug\HypothesisTesting.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\HypothesisTesting\obj\Debug\HypothesisTesting.pdb

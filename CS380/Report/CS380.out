@@ -1,0 +1,46 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Methodology}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Hypothesis}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Procedure}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Generating Data}{subsection.3.2}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Statistical Analysis}{subsection.3.2}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Tools}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Measures}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Measures of Unfairness}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Measures of Instability}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Effective Number of Parties}{subsection.4.2}% 12
+\BOOKMARK [3][-]{subsubsection.4.2.2}{ENP using Shapley Shubik Power Index}{subsection.4.2}% 13
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Entropy of Shapley Shubik Power}{subsection.4.2}% 14
+\BOOKMARK [1][-]{section.5}{Artificial Societies}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{Polya Eggenberger \(Urn\) Model}{section.5}% 16
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Urn Process}{subsection.5.1}% 17
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Parameter selection}{subsection.5.1}% 18
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Sampling}{subsection.5.1}% 19
+\BOOKMARK [2][-]{subsection.5.2}{Spatial Model}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.3}{Preference Swapping Model}{section.5}% 21
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Redistricting}{subsection.5.3}% 22
+\BOOKMARK [1][-]{section.6}{Apportionment Methods}{}% 23
+\BOOKMARK [2][-]{subsection.6.1}{St Lague Method}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.2}{D'Hondt/Jefferson Method}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.3}{Hill Method}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.4}{Hamilton Method}{section.6}% 27
+\BOOKMARK [1][-]{section.7}{Fitting real world data to the Spatial Model}{}% 28
+\BOOKMARK [1][-]{section.8}{District Magnitude}{}% 29
+\BOOKMARK [1][-]{section.9}{Voting Rules}{}% 30
+\BOOKMARK [2][-]{subsection.9.1}{Single Transferable Vote}{section.9}% 31
+\BOOKMARK [2][-]{subsection.9.2}{Proportional Systems}{section.9}% 32
+\BOOKMARK [3][-]{subsubsection.9.2.1}{District Proportional}{subsection.9.2}% 33
+\BOOKMARK [3][-]{subsubsection.9.2.2}{Supplementary Member}{subsection.9.2}% 34
+\BOOKMARK [1][-]{section.10}{Efficiently Sampling from a Discrete Probability Distribution}{}% 35
+\BOOKMARK [1][-]{section.11}{Undesirability}{}% 36
+\BOOKMARK [1][-]{section.12}{Results}{}% 37
+\BOOKMARK [2][-]{subsection.12.1}{Simulation Results}{section.12}% 38
+\BOOKMARK [2][-]{subsection.12.2}{Minimum Undesirability}{section.12}% 39
+\BOOKMARK [2][-]{subsection.12.3}{Analysis of Different Apportionment Methods}{section.12}% 40
+\BOOKMARK [1][-]{section.13}{Discussion}{}% 41
+\BOOKMARK [1][-]{section.14}{Conclusion}{}% 42
+\BOOKMARK [1][-]{section.15}{Possible Further Research}{}% 43
+\BOOKMARK [1][-]{section*.11}{References}{}% 44
+\BOOKMARK [1][-]{appendix.A}{FSharp Sourcecode}{}% 45
+\BOOKMARK [1][-]{appendix.B}{R Sourcecode}{}% 46

@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\Script.exe.config
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\Script.XML
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\Script.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\Script.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\FSharp.Core.dll
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\bin\Debug\FSharp.Core.xml
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\obj\Debug\Script.fsprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\obj\Debug\Script.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\Script\obj\Debug\Script.pdb

@@ -1,0 +1,4 @@
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\bin\Release\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\bin\Release\CS380.pdb
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\obj\x86\Release\CS380.exe
+C:\Users\Michael\Documents\Visual Studio 11\Projects\CS380\CS380\obj\x86\Release\CS380.pdb

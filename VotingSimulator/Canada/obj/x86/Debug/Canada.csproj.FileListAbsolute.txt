@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\bin\Debug\Canada.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\bin\Debug\Canada.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\bin\Debug\ElectionSystem.dll
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\bin\Debug\ElectionSystem.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\obj\x86\Debug\Canada.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\obj\x86\Debug\Canada.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Canada\obj\x86\Debug\Canada.csprojResolveAssemblyReference.cache

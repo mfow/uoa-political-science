@@ -1,0 +1,68 @@
+﻿Build started 17/05/2012 11:31:06 a.m..
+     1>Project "C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\VotingSimulator\VotingSimulator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\VotingSimulator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\VotingSimulator.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt VotingSimulator.cpp
+         VotingSimulator.cpp
+     1>VotingSimulator.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(350): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(362): warning C4018: '>' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(367): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(369): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(371): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(373): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(402): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(410): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(418): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(425): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(463): warning C4018: '<' : signed/unsigned mismatch
+     1>VotingSimulator.cpp(541): warning C4482: nonstandard extension used: enum 'FPPOptions' used in qualified name
+     1>VotingSimulator.cpp(546): warning C4482: nonstandard extension used: enum 'ApprovalOptions' used in qualified name
+     1>VotingSimulator.cpp(551): warning C4482: nonstandard extension used: enum 'ApprovalOptions' used in qualified name
+     1>VotingSimulator.cpp(556): warning C4482: nonstandard extension used: enum 'FPPOptions' used in qualified name
+     1>VotingSimulator.cpp(561): warning C4482: nonstandard extension used: enum 'PVOptions' used in qualified name
+     1>VotingSimulator.cpp(566): warning C4482: nonstandard extension used: enum 'PVOptions' used in qualified name
+     1>VotingSimulator.cpp(571): warning C4482: nonstandard extension used: enum 'STVTransferMethod' used in qualified name
+     1>VotingSimulator.cpp(576): warning C4482: nonstandard extension used: enum 'STVTransferMethod' used in qualified name
+     1>VotingSimulator.cpp(581): warning C4482: nonstandard extension used: enum 'STVTransferMethod' used in qualified name
+     1>VotingSimulator.cpp(586): warning C4482: nonstandard extension used: enum 'STVTransferMethod' used in qualified name
+     1>VotingSimulator.cpp(591): warning C4482: nonstandard extension used: enum 'STVTransferMethod' used in qualified name
+     1>VotingSimulator.cpp(596): warning C4482: nonstandard extension used: enum 'MMPOptions' used in qualified name
+     1>VotingSimulator.cpp(601): warning C4482: nonstandard extension used: enum 'MMPOptions' used in qualified name
+     1>VotingSimulator.cpp(606): warning C4482: nonstandard extension used: enum 'MMPOptions' used in qualified name
+     1>VotingSimulator.cpp(611): warning C4482: nonstandard extension used: enum 'MMPOptions' used in qualified name
+     1>VotingSimulator.cpp(616): warning C4482: nonstandard extension used: enum 'MMPOptions' used in qualified name
+     1>VotingSimulator.cpp(621): warning C4482: nonstandard extension used: enum 'CondorcetOptions' used in qualified name
+     1>VotingSimulator.cpp(626): warning C4482: nonstandard extension used: enum 'CondorcetOptions' used in qualified name
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Release\VotingSimulator.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\VotingSimulator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Release\VotingSimulator.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Release\VotingSimulator.lib" /MACHINE:X86 Release\ApprovalVotingSystem.obj
+         Release\CondorcetVotingSystem.obj
+         Release\CSVReader.obj
+         Release\DefaultVotePredictor.obj
+         Release\FPPVotingSystem.obj
+         Release\MMPVotingSystem.obj
+         Release\Party.obj
+         Release\PreferenceOrder.obj
+         Release\PreferencePredictor.obj
+         Release\PVVotingSystem.obj
+         Release\Simulator.obj
+         Release\stdafx.obj
+         Release\STVVotingSystem.obj
+         Release\VotePredictor.obj
+         Release\VotingSimulator.obj
+         Release\VotingSystem.obj
+         Generating code
+         Finished generating code
+         VotingSimulator.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Release\VotingSimulator.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\Release\VotingSimulator.exe;#1" /manifest Release\VotingSimulator.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\VotingSimulator.unsuccessfulbuild".
+         Touching "Release\VotingSimulator.lastbuildstate".
+     1>Done Building Project "C:\Users\Michael\Documents\Visual Studio 2010\Projects\VotingSimulator\VotingSimulator\VotingSimulator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.50

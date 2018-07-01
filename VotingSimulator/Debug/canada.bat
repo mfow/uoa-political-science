@@ -1,0 +1,4 @@
+VotingSimulator simulate -pl data/canada/canada_partylist.csv -s fpp -s pv -pp data/canada/canada_conditionalprobability.csv -sp data/canada/canada_spatial.csv -poll data/canada/canada_poll2006.csv -sc a -out data/canada/canada_2006.csv
+VotingSimulator simulate -pl data/canada/canada_partylist.csv -s fpp -s pv -pp data/canada/canada_conditionalprobability.csv -sp data/canada/canada_spatial.csv -poll data/canada/canada_poll2004.csv -sc a -out data/canada/canada_2004.csv
+VotingSimulator simulate -pl data/canada/canada_partylist.csv -s fpp -s pv -pp data/canada/canada_conditionalprobability.csv -sp data/canada/canada_spatial.csv -poll data/canada/canada_poll2000.csv -sc a -out data/canada/canada_2000.csv
+pause
